@@ -1,0 +1,17 @@
+table{
+    margin: 100px auto;
+    border: 5px solid black;
+}
+
+td{
+    height:50px;
+    width:50px;
+}
+
+#cream{
+    background-color: white;
+}
+
+#Green{
+    background-color: darkolivegreen;
+}
